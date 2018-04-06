@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+# save this file as pre-flow-hotfix-finish
+python /full/path/to/okay.py /full/path/to/project
